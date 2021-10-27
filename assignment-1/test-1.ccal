@@ -1,0 +1,31 @@
+main
+{
+	
+}
+
+Main
+{
+	
+}
+
+MaiN
+{
+	
+}
+
+main
+{
+	// a simple comment
+	/* a comment /* with /* several */ nested */ comments */
+}
+
+void func ()
+{
+	return ();
+}
+
+main
+{
+	func ();
+}
+
